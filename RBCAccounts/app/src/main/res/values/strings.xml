@@ -1,0 +1,20 @@
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">RBCAccounts</string>
+
+    <!-- String Templates -->
+    <string name="template_account_number">(%s)</string>
+    <string name="template_amount">CA$%,.2f</string>
+
+    <!-- Texts/Labels -->
+    <string name="label_hey_there">Hey there</string>
+    <string name="label_lets_make_it_happen">Let\'s make it happen!</string>
+    <string name="label_accounts_overview">Accounts Overview</string>
+    <string name="label_transactions">Transactions</string>
+
+    <!-- Error Messages -->
+    <string name="error_something_went_wrong">"Oops! Something went wrong, please try again."</string>
+    <string name="error_normal_transactions_not_found">"Unable to fetch normal transactions. Please refresh this page again."</string>
+    <string name="error_additional_credit_card_transactions_not_found">"Unable to fetch credit card transactions. Please refresh this page again."</string>
+    <string name="error_no_transactions_found">"No transactions found."</string>
+</resources>
