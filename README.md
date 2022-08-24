@@ -8,6 +8,6 @@
 
 ## Submission Contains
 
-- [RBCAccounts Android Application](https://github.com/DhrumilShah98/RBCAccountsApplication/RBCAccounts)
-- [Report/Documentation](https://github.com/DhrumilShah98/RBCAccountsApplication/RBCAccounts_Report)
-- [RBCAccounts Application Demo Video](https://github.com/DhrumilShah98/RBCAccountsApplication/RBCAccounts_ApplicationDemo)
+- [RBCAccounts Android Application](https://github.com/DhrumilShah98/RBCAccountsApplication/tree/main/RBCAccounts)
+- [Report/Documentation](https://github.com/DhrumilShah98/RBCAccountsApplication/tree/main/RBCAccounts_Report)
+- [RBCAccounts Application Demo Video](https://github.com/DhrumilShah98/RBCAccountsApplication/tree/main/RBCAccounts_ApplicationDemo)
